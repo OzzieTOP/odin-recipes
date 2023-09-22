@@ -1,2 +1,2 @@
 # odin-recipes
-Repo for html project "Project: Recipes" from The Odin Project
+Repo for html assignment "Project: Recipes" from The Odin Project
